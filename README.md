@@ -1,4 +1,4 @@
-# Business card project Wallet
+# Symfony template with jwt auth (DDD)
 
 ### **Project Setup**
 
